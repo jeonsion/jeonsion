@@ -9,12 +9,14 @@
 </div>
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonsion&count_bg=%2379C83D&title_bg=%23954141&icon=electron.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-<h3>Research Interests</h3>
+<br>
+
+## Interests 
 📸 Computer Vision<br>
 💡 Deep Learning, Machine Learning<br>
 🚗 Autonomous Driving & SLAM <br>
 
-<h3>Study</h3>
+## Study 
 
 <b>🖥️ Programming Languages</b> | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
@@ -32,6 +34,17 @@
 <img src="https://img.shields.io/badge/ROS1-22314E?style=flat-square&logo=ROS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+
+
+## More about me 🙂
+<p align="center">
+  <a href="https://stupidly-honest.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+  <a href="https://www.youtube.com/channel/UCa78Z5YzslMSsjebIxzo3zg"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/sion-jeon-310a02279/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp
+  <a href="mailto:20191545@sch.ac.kr"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+  <a href="https://scholar.google.com/citations?hl=ko&user=XxZPsIYAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4B83E3?style=flat-square&logo=google-scholar&logoColor=white"/></a>&nbsp
+</p>
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jeonsion&count_private=true&show_icons=true&theme=transparent"/><!--  hide=stars,commits,prs,contribs& --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonsion&exclude_repo=TensorFlow_study,ML-book-scikitlearn&layout=compact&langs_count=8"/> <!-- &exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile -->
