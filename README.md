@@ -37,7 +37,7 @@
 
 
 
-## 📝 Publications 📝
+## Publications
 <img src="https://img.shields.io/badge/Paper 1-00629B?style=flat-square&logo=Word&logoColor=white"/> Disaster Response Mobility Platform Using SLAM and Object Detection</br>(Proceedings of the Korea Computer Congress, pp. 173-175, 2023)
 
 ## More about me 🙂
