@@ -36,6 +36,11 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
 
+## Paper
+- Disaster Response Mobility Platform Using SLAM and Object Detection
+(Proceedings of the Korea Computer Congress, pp. 173-175, 2023) 
+
+
 ## More about me 🙂
 <p align="center">
   <a href="https://stupidly-honest.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
