@@ -40,6 +40,7 @@
 ## Publications
 <img src="https://img.shields.io/badge/Paper 1-00629B?style=flat-square&logo=Word&logoColor=white"/> Disaster Response Mobility Platform Using SLAM and Object Detection</br>(Proceedings of the Korea Computer Congress, pp. 173-175, 2023)
 
+<img src="https://img.shields.io/badge/Paper 2-00629B?style=flat-square&logo=Word&logoColor=white"/> Designing Robot Behaviors for IoT-ROS Robot Mission Execution Based on FlexBE </br>(Proceedings of the Korea Computer Congress, 2024)
 ## More about me
 <p align="center">
   <a href="https://stupidly-honest.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
