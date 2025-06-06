@@ -10,9 +10,8 @@
 
 
 ## Interests 
-📸 Computer Vision<br>
-💡 Deep Learning, Machine Learning<br>
-🚗 Autonomous Driving & SLAM <br>
+📸 Full-Stack Web Dev
+💡 Data Analysis
 
 ## Study 
 
