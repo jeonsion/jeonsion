@@ -3,10 +3,9 @@
 
 
 <div align="center">
-	<h2>👋 Hello, I'm</h2>
-	<a href="https://github.com/jeonsion">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=2D3AA1&center=true&vCenter=true&random=false&width=500&height=70&lines=Sion+Jeon;Full-Stack+Developer;AI+Agent+Workflow;Automation+Enthusiast" alt="Typing SVG" />
-	</a>
+	<h2>👋 Hello, I'm SionJeon</h2>
+<br>
+ 
 </div>
 
 
