@@ -3,9 +3,10 @@
 
 
 <div align="center">
-	<h2>👋 Hello, I'm SionJeon</h2>
-<br>
- 
+	<h2>👋 Hello, I'm</h2>
+	<a href="https://github.com/jeonsion">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=2D3AA1&center=true&vCenter=true&random=false&width=500&height=70&lines=Sion+Jeon;Full-Stack+Developer;AI+Agent+Workflow;Automation+Enthusiast" alt="Typing SVG" />
+	</a>
 </div>
 
 
@@ -52,9 +53,3 @@
   <a href="mailto:20191545@sch.ac.kr"><img src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://scholar.google.com/citations?hl=ko&user=XxZPsIYAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4B83E3?style=flat-square&logo=google-scholar&logoColor=white"/></a>&nbsp
 </p>
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeonsion&count_private=true&show_icons=true&theme=transparent"/><!--  hide=stars,commits,prs,contribs& --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonsion&exclude_repo=TensorFlow_study,ML-book-scikitlearn&layout=compact&langs_count=8"/> <!-- &exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile -->
-
-</div>
