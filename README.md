@@ -11,7 +11,8 @@
 
 ## Interests 
 📸 Full-Stack Web Dev </br>
-💡 Data Analysis
+🤖 AI Agent Workflow </br>
+⚡ Automation
 
 ## Study 
 
@@ -20,6 +21,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-sharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/> 
 <!--<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/MATLAB-0076a8?style=flat-square&logoColor=white"/> -->
 
@@ -31,6 +34,9 @@
 <img src="https://img.shields.io/badge/ROS1-22314E?style=flat-square&logo=ROS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white"/>
 
 
 
