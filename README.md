@@ -34,16 +34,24 @@
 <img src="https://img.shields.io/badge/ROS1-22314E?style=flat-square&logo=ROS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ROS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=Swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white"/>
 
 
 
 ## Publications
-<img src="https://img.shields.io/badge/Paper 1-00629B?style=flat-square&logo=Word&logoColor=white"/> Disaster Response Mobility Platform Using SLAM and Object Detection</br>(Proceedings of the Korea Computer Congress, pp. 173-175, 2023)
+<img src="https://img.shields.io/badge/Paper 1-00629B?style=flat-square&logo=Word&logoColor=white"/> [Disaster Response Mobility Platform Using SLAM and Object Detection](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11487975)</br>(Proceedings of the Korea Computer Congress, pp. 173-175, 2023)
 
-<img src="https://img.shields.io/badge/Paper 2-00629B?style=flat-square&logo=Word&logoColor=white"/> Designing Robot Behaviors for IoT-ROS Robot Mission Execution Based on FlexBE </br>(Proceedings of the Korea Computer Congress, 2024)
+<img src="https://img.shields.io/badge/Paper 2-00629B?style=flat-square&logo=Word&logoColor=white"/> [Designing Robot Behaviors for IoT-ROS Robot Mission Execution Based on FlexBE](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862555) </br>(Proceedings of the Korea Computer Congress, 2024)
 ## More about me
 <p align="center">
   <a href="https://stupidly-honest.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
